@@ -1,42 +1,21 @@
-# Have a coffee, develop more
+# Develop_Cafe
+[![GitHub Release](https://img.shields.io/github/release/zjayers/develop_cafe.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/develop_cafe.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/develop_cafe.svg?maxAge=25000)](https://github.com/zjayers/develop_cafe/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/develop_cafe/blob/master/LICENSEs)
 
-Develop.cafe is a collection of tools and resources for developers and designers.
+## Description
 
-Project is built in Python using [Pelican](https://getpelican.com) and uses [Markdown](https://daringfireball.net/projects/markdown/basics) as the editor of choice. Uses [Jinja](https://palletsprojects.com/p/jinja/) as the template package and [Bulma](https://bulma.io/documentation/) as the CSS framework.
+> Work in progress
 
-Feel free to clone or make pull requests.
+## Features
 
-Licensed GNU General Public License. [Read the licence](https://github.com/melboone/develop_cafe/blob/master/LICENSE).
+> Work in progress
 
-[develop.cafe](https://develop.cafe)
+## Installation
 
-## Clone this project
+> Work in progress
 
-Clone and run the project on your computer.
+## Usage
 
-    pip install -r requirements.txt
-    pelican content
-    pelican --listen
-
-    http://127.0.0.1:8000/
-
-
-              {
-            }_{ __{
-         .-{   }   }-.
-        (   }     {   )
-        |`-.._____..-'|
-        |             ;--.
-        |            (__  \
-        |             |/  /
-        |             /  /    Have a coffee
-        |            (  /
-        \             y'
-         `-.._____..-'
-         
-         
-## To do
-
-* Stylize the Search page and search results
-* Add comments? (don't really see the point)
-* Clean and remove unused CSS
+> Work in progress
